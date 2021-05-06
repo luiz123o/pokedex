@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Typescript Template for NextJS</h1>
-  <p align="center">Template created for use in projects with React in typescript</p>
+<h1 align="center">Pokedex</h1>
+  <p align="center">Projeto construído com fins didáticos</p>
 
 
 <p align="center">
@@ -33,8 +33,4 @@
 
   </ul>
 
-<p>For installation just run the command below</p>
 
-  ```
-  yarn create next-app -e https://github.com/luiz123o/template-nextjs10
-  ```
